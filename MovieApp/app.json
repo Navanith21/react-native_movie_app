@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "movieapp",
-    "slug": "movieapp",
+    "name": "MovieApp",
+    "slug": "MovieApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
